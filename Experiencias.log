@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.1.27)  7 FEB 2013 09:40
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.1.27)  7 FEB 2013 09:42
 entering extended mode
 **C:/Users/Inspirion/Documents/GitHub/Experiencias/Experiencias.tex
 (C:/Users/Inspirion/Documents/GitHub/Experiencias/Experiencias.tex
@@ -411,23 +411,84 @@ LaTeX Font Info:    ... okay on input line 10.
 
 [4
 
-] (C:\Users\Inspirion\Documents\GitHub\Experiencias\Experiencias.aux) ) 
+]
+Cap\'{\i }tulo 1.
+<imagenes_usuario/git.png, id=18, 513.92pt x 513.92pt>
+File: imagenes_usuario/git.png Graphic file (type png)
+
+<use imagenes_usuario/git.png>
+Package pdftex.def Info: imagenes_usuario/git.png used on input line 68.
+(pdftex.def)             Requested size: 123.60925pt x 123.60992pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--98
+
+ []
+
+[5
+
+ <C:/Users/Inspirion/Documents/GitHub/Experiencias/imagenes_usuario/git.png>] <
+imagenes_usuario/git2.png, id=24, 536.0025pt x 291.33844pt>
+File: imagenes_usuario/git2.png Graphic file (type png)
+
+<use imagenes_usuario/git2.png>
+Package pdftex.def Info: imagenes_usuario/git2.png used on input line 100.
+(pdftex.def)             Requested size: 366.24527pt x 199.06773pt.
+
+<imagenes_usuario/git3.png, id=25, 596.2275pt x 314.67563pt>
+File: imagenes_usuario/git3.png Graphic file (type png)
+
+<use imagenes_usuario/git3.png>
+Package pdftex.def Info: imagenes_usuario/git3.png used on input line 108.
+(pdftex.def)             Requested size: 366.24527pt x 193.29628pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
+
+ []
+
+[6 <C:/Users/Inspirion/Documents/GitHub/Experiencias/imagenes_usuario/git2.png>
+ <C:/Users/Inspirion/Documents/GitHub/Experiencias/imagenes_usuario/git3.png>]
+(C:\Users\Inspirion\Documents\GitHub\Experiencias\Experiencias.aux) ) 
 Here is how much of TeX's memory you used:
- 2486 strings out of 494045
- 32686 string characters out of 3146360
- 94973 words of memory out of 3000000
- 5779 multiletter control sequences out of 15000+200000
- 5150 words of font info for 19 fonts, out of 3000000 for 9000
+ 2509 strings out of 494045
+ 33154 string characters out of 3146360
+ 96981 words of memory out of 3000000
+ 5797 multiletter control sequences out of 15000+200000
+ 5755 words of font info for 21 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,4n,27p,276b,205s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Prog
-ram Files(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program
- Files(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
-es(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files(x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on Experiencias.pdf (4 pages, 54772 bytes).
+ 27i,4n,27p,516b,205s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Progra
+m Files(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program F
+iles(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files(x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on Experiencias.pdf (6 pages, 238396 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
