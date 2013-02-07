@@ -2,3 +2,4 @@
 \contentsline {chapter}{Agradecimientos}{2}
 \contentsline {chapter}{Resumen}{3}
 \contentsline {chapter}{\numberline {1}Herramienta GitHub}{5}
+\contentsline {chapter}{\numberline {2}Herramienta LateX}{7}
