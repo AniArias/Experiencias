@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.1.27)  7 FEB 2013 09:45
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.1.27)  7 FEB 2013 09:47
 entering extended mode
 **C:/Users/Inspirion/Documents/GitHub/Experiencias/Experiencias.tex
 (C:/Users/Inspirion/Documents/GitHub/Experiencias/Experiencias.tex
@@ -1009,26 +1009,362 @@ Package pdftex.def Info: imagenes_usuario/face.png used on input line 557.
 (pdftex.def)             Requested size: 123.60925pt x 197.76962pt.
  [17 <C:/Users/Inspirion/Documents/GitHub/Experiencias/imagenes_usuario/face.pn
 g>]
-(C:\Users\Inspirion\Documents\GitHub\Experiencias\Experiencias.aux)
+Cap\'{\i }tulo 4.
+<imagenes_usuario/tarea.jpg, id=80, 144.54pt x 76.8471pt>
+File: imagenes_usuario/tarea.jpg Graphic file (type jpg)
+
+<use imagenes_usuario/tarea.jpg>
+Package pdftex.def Info: imagenes_usuario/tarea.jpg used on input line 579.
+(pdftex.def)             Requested size: 160.23448pt x 85.19574pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--596
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 603--606
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--627
+
+ []
+
+[18
+
+ <C:/Users/Inspirion/Documents/GitHub/Experiencias/imagenes_usuario/tarea.jpg>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+
+Overfull \hbox (8.30003pt too wide) in paragraph at lines 631--671
+\OT1/cmr/m/n/12 La pri-me-ra fun-cio-na-li-dad es la par-te lla-ma-da "Me-mo-ri
+-za", en es-ta par-te el usua-rio tendra que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--671
+
+ []
+
+[19] [20] <imagenes_usuario/inicio.jpg, id=91, 331.99031pt x 258.21469pt>
+File: imagenes_usuario/inicio.jpg Graphic file (type jpg)
+
+<use imagenes_usuario/inicio.jpg>
+Package pdftex.def Info: imagenes_usuario/inicio.jpg used on input line 687.
+(pdftex.def)             Requested size: 274.6857pt x 213.6562pt.
+
+<imagenes_usuario/memoriza.jpg, id=92, 331.99031pt x 258.21469pt>
+File: imagenes_usuario/memoriza.jpg Graphic file (type jpg)
+
+<use imagenes_usuario/memoriza.jpg>
+Package pdftex.def Info: imagenes_usuario/memoriza.jpg used on input line 698.
+(pdftex.def)             Requested size: 274.6857pt x 213.6562pt.
+
+<imagenes_usuario/anios.jpg, id=93, 346.29375pt x 271.0125pt>
+File: imagenes_usuario/anios.jpg Graphic file (type jpg)
+
+<use imagenes_usuario/anios.jpg>
+Package pdftex.def Info: imagenes_usuario/anios.jpg used on input line 708.
+(pdftex.def)             Requested size: 274.6857pt x 214.97833pt.
+ [21 <C:/Users/Inspirion/Documents/GitHub/Experiencias/imagenes_usuario/inicio.
+jpg> <C:/Users/Inspirion/Documents/GitHub/Experiencias/imagenes_usuario/memoriz
+a.jpg>]
+<imagenes_usuario/ejercicio.jpg, id=97, 346.29375pt x 274.77657pt>
+File: imagenes_usuario/ejercicio.jpg Graphic file (type jpg)
+
+<use imagenes_usuario/ejercicio.jpg>
+Package pdftex.def Info: imagenes_usuario/ejercicio.jpg used on input line 721.
+
+(pdftex.def)             Requested size: 274.6857pt x 217.96414pt.
+ [22 <C:/Users/Inspirion/Documents/GitHub/Experiencias/imagenes_usuario/anios.j
+pg> <C:/Users/Inspirion/Documents/GitHub/Experiencias/imagenes_usuario/ejercici
+o.jpg>]
+<imagenes_usuario/juego1.jpg, id=101, 352.31625pt x 277.035pt>
+File: imagenes_usuario/juego1.jpg Graphic file (type jpg)
+
+<use imagenes_usuario/juego1.jpg>
+Package pdftex.def Info: imagenes_usuario/juego1.jpg used on input line 734.
+(pdftex.def)             Requested size: 274.6857pt x 215.99342pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--787
+
+ []
+
+[23 <C:/Users/Inspirion/Documents/GitHub/Experiencias/imagenes_usuario/juego1.j
+pg>] [24] (C:\Users\Inspirion\Documents\GitHub\Experiencias\Experiencias.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2602 strings out of 494045
- 35477 string characters out of 3146360
- 98028 words of memory out of 3000000
- 5874 multiletter control sequences out of 15000+200000
+ 2642 strings out of 494045
+ 36454 string characters out of 3146360
+ 99037 words of memory out of 3000000
+ 5908 multiletter control sequences out of 15000+200000
  5755 words of font info for 21 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,4n,27p,592b,205s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,4n,27p,612b,205s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
 C:/Program Files(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/P
 rogram Files(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Progr
 am Files(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on Experiencias.pdf (17 pages, 5059373 bytes).
+Output written on Experiencias.pdf (24 pages, 5267746 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
+ 122 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
