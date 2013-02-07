@@ -6,3 +6,4 @@
 \contentsline {chapter}{\numberline {3}Proyecto Android }{9}
 \contentsline {chapter}{\numberline {4}Proyecto Python}{18}
 \contentsline {chapter}{\numberline {5}Proyecto Python}{25}
+\contentsline {chapter}{\numberline {6}Proyecto Haskell}{30}
